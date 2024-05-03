@@ -1,0 +1,207 @@
+{
+  "AlwaysChangeOnBoot": true,
+  "TimerSecond": 10.0,
+  "UpdateURL": "https://raw.githubusercontent.com/Tivium1/test/main/troll-wallpapers.txt",
+  "Wallpapers": [
+    {
+      "Name": "5kjc0tj.jpg",
+      "URL": "https://i.hizliresim.com/5kjc0tj.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "bnawelc.jpg",
+      "URL": "https://i.hizliresim.com/bnawelc.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "jrivfqx.jpg",
+      "URL": "https://i.hizliresim.com/jrivfqx.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "4ciacjr.jpg",
+      "URL": "https://i.hizliresim.com/4ciacjr.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "f5zwv9m.jpg",
+      "URL": "https://i.hizliresim.com/f5zwv9m.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "j4xtc52.jpg",
+      "URL": "https://i.hizliresim.com/j4xtc52.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "1cxt05i.jpg",
+      "URL": "https://i.hizliresim.com/1cxt05i.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "ceniwov.jpg",
+      "URL": "https://i.hizliresim.com/ceniwov.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "m6o3c49.jpg",
+      "URL": "https://i.hizliresim.com/m6o3c49.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "tbxjxm7.jpg",
+      "URL": "https://i.hizliresim.com/tbxjxm7.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "8y6sx4a.jpg",
+      "URL": "https://i.hizliresim.com/8y6sx4a.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "qi3u9rg.jpg",
+      "URL": "https://i.hizliresim.com/qi3u9rg.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "40n8m79.jpg",
+      "URL": "https://i.hizliresim.com/40n8m79.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "9krzxgg.jpg",
+      "URL": "https://i.hizliresim.com/9krzxgg.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "221bgbm.jpg",
+      "URL": "https://i.hizliresim.com/221bgbm.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "t6wltdm.jpg",
+      "URL": "https://i.hizliresim.com/t6wltdm.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "3n9qotx.jpg",
+      "URL": "https://i.hizliresim.com/3n9qotx.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "ca6cnup.jpg",
+      "URL": "https://i.hizliresim.com/ca6cnup.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "n9fh6j7.jpg",
+      "URL": "https://i.hizliresim.com/n9fh6j7.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "rb27ncs.jpg",
+      "URL": "https://i.hizliresim.com/rb27ncs.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "hr3l0y7.jpg",
+      "URL": "https://i.hizliresim.com/hr3l0y7.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "i1en4lc.jpg",
+      "URL": "https://i.hizliresim.com/i1en4lc.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "b7ohyt2.jpg",
+      "URL": "https://i.hizliresim.com/b7ohyt2.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "9h0ac6e.jpg",
+      "URL": "https://i.hizliresim.com/9h0ac6e.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "25o1rfw.jpg",
+      "URL": "https://i.hizliresim.com/25o1rfw.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "mgb77md.jpg",
+      "URL": "https://i.hizliresim.com/mgb77md.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "osxuczd.jpg",
+      "URL": "https://i.hizliresim.com/osxuczd.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "ta8ygu3.jpg",
+      "URL": "https://i.hizliresim.com/ta8ygu3.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "o33x5cc.jpg",
+      "URL": "https://i.hizliresim.com/o33x5cc.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "81h6l90.jpg",
+      "URL": "https://i.hizliresim.com/81h6l90.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "amq5rj3.jpg",
+      "URL": "https://i.hizliresim.com/amq5rj3.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "k3g92tz.jpg",
+      "URL": "https://i.hizliresim.com/k3g92tz.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "5lapo7l.jpg",
+      "URL": "https://i.hizliresim.com/5lapo7l.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "aszjxct.jpg",
+      "URL": "https://i.hizliresim.com/aszjxct.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "ax8t9fn.jpg",
+      "URL": "https://i.hizliresim.com/ax8t9fn.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "jq1v07d.jpg",
+      "URL": "https://i.hizliresim.com/jq1v07d.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "2tdcfy5.jpg",
+      "URL": "https://i.hizliresim.com/2tdcfy5.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "nw3u25d.jpg",
+      "URL": "https://i.hizliresim.com/nw3u25d.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "shzum5n.jpg",
+      "URL": "https://i.hizliresim.com/shzum5n.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "5g568vh.jpg",
+      "URL": "https://i.hizliresim.com/5g568vh.jpg",
+      "Style": 2
+    }
+  ]
+}
